@@ -142,7 +142,7 @@ function handleMouseOver(d) {
     divTooltip.transition()
         .duration(300)
         .style('opacity', 1)
-    divTooltip.html(`<img style="width: 100%; height: 100%;" src="./img/${d.properties.name.replaceAll(" ", "_").replaceAll("'", "").replaceAll(":", "").toLowerCase()}"></img><br>Name: ${d.properties.name}<br>Location: ${d.properties.location}<br>Date: ${d.properties.time}<br>Released: ${d.properties.released}<br>Order: ${d.properties.id}`)
+    divTooltip.html(`<img style="width: 100%; height: 100%;" src="./img/${d.properties.name.replaceAll(" ", "_").replaceAll("'", "").replaceAll(":", "").toLowerCase()}.png"></img><br>Name: ${d.properties.name}<br>Location: ${d.properties.location}<br>Date: ${d.properties.time}<br>Released: ${d.properties.released}<br>Order: ${d.properties.id}`)
 }
 
 function handleMouseOut(d) {
