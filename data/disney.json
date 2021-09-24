@@ -1,0 +1,1191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Snow White",
+        "id": 1,
+        "latitude": "50.682333",
+        "longitude": "10.594500",
+        "time": "Early 1500s",
+        "location": "Germany",
+        "released": "1938",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.682333, 10.594500
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Pinnochio",
+        "id": 2,
+        "latitude": "46.524507",
+        "longitude": "11.377318",
+        "time": "1940s",
+        "location": "Italy",
+        "released": "1940",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Fantasia",
+        "id": 3,
+        "latitude": "40.075476",
+        "longitude": "-32.991192",
+        "time": "Unknown",
+        "location": "Unknown",
+        "released": "1940",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Dumbo",
+        "id": 4,
+        "latitude": "27.6648",
+        "longitude": "-81.5158",
+        "time": "1941",
+        "location": "Florida, USA",
+        "released": "1941",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Bambi",
+        "id": 5,
+        "latitude": "37.36752",
+        "longitude": "-119.880045",
+        "time": "1942",
+        "location": "California, USA",
+        "released": "1943",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Saludos Amigos",
+        "id": 6,
+        "latitude": "-15.396286",
+        "longitude": "-69.258960",
+        "time": "1940s",
+        "location": "Peru/Bolivia",
+        "released": "1943",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Three Caballeros",
+        "id": 7,
+        "latitude": "19.386823",
+        "longitude": "-99.152555",
+        "time": "1940s",
+        "location": "Mexico",
+        "released": "1945",
+        "nametype": "Valid"
+      }
+  },
+    {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0, 0
+      ]
+    },
+    "properties": {
+      "mass": 21,
+      "name": "Make Mine Music",
+      "id": 8,
+      "latitude": "43.085476",
+      "longitude": "-29.951192",
+      "time": "Various",
+      "location": "Various",
+      "released": "1946",
+      "nametype": "Valid"
+    }
+},
+    {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      0, 0
+    ]
+  },
+  "properties": {
+    "mass": 21,
+    "name": "Fun and Fancy Free",
+    "id": 10,
+    "latitude": "41.095476",
+    "longitude": "-24.951192",
+    "time": "1940s",
+    "location": "Unknown",
+    "released": "1948",
+    "nametype": "Valid"
+  }
+},
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Melody Time",
+        "id": 10,
+        "latitude": "45.085476",
+        "longitude": "-26.951192",
+        "time": "1940s",
+        "location": "Unknown",
+        "released": "1948",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Adventures of Ichabod and Mr. Toad",
+        "id": 11,
+        "latitude": "41.088174",
+        "longitude": "-73.863210",
+        "time": "1790",
+        "location": "New York, USA",
+        "released": "1949",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Cinderella",
+        "id": 12,
+        "latitude": "42.484937",
+        "longitude": "2.750009",
+        "time": "1800s",
+        "location": "France",
+        "released": "1950",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Alice in Wonderland",
+        "id": 13,
+        "latitude": "51.763722",
+        "longitude": "-1.350137",
+        "time": "1800s",
+        "location": "Oxford, UK",
+        "released": "1951",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Peter Pan",
+        "id": 14,
+        "latitude": "40.088174",
+        "longitude": "-28.863210",
+        "time": "1901-1910",
+        "location": "Neverland (fictional)",
+        "released": "1953",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Lady and the Tramp",
+        "id": 15,
+        "latitude": "39.717121",
+        "longitude": "-92.950455",
+        "time": "1909",
+        "location": "Missouri, USA",
+        "released": "1955",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Sleeping Beauty",
+        "id": 16,
+        "latitude": "48.775215",
+        "longitude": "10.472045",
+        "time": "1400s",
+        "location": "Germany",
+        "released": "1959",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "101 Dalmations",
+        "id": 17,
+        "latitude": "51.509865",
+        "longitude": "-0.118092",
+        "time": "1958",
+        "location": "London, England",
+        "released": "1961",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Sword in the Stone",
+        "id": 18,
+        "latitude": "52.439714",
+        "longitude": "-0.080342",
+        "time": "1400s",
+        "location": "London, England",
+        "released": "1963",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Jungle Book",
+        "id": 19,
+        "latitude": "22.091642",
+        "longitude": "79.542411",
+        "time": "1894",
+        "location": "India",
+        "released": "1967",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Aristocats",
+        "id": 20,
+        "latitude": "48.864716",
+        "longitude": "2.349014",
+        "time": "1910",
+        "location": "Paris, France",
+        "released": "1970",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Robin Hood",
+        "id": 21,
+        "latitude": "52.966946",
+        "longitude": "-1.202932",
+        "time": "1194",
+        "location": "Nottingham, UK",
+        "released": "1973",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Many Adventures of Winnie the Pooh",
+        "id": 22,
+        "latitude": "51.047001",
+        "longitude": "0.065751",
+        "time": "1920s",
+        "location": "East Sussex, UK",
+        "released": "1977",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Rescuers",
+        "id": 23,
+        "latitude": "40.820783",
+        "longitude": "-73.265415",
+        "time": "1897",
+        "location": "New York, USA",
+        "released": "1977",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Fox and the Hound",
+        "id": 24,
+        "latitude": "42.354821",
+        "longitude": "-71.068671",
+        "time": "1967",
+        "location": "Boston, USA",
+        "released": "1981",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Black Cauldron",
+        "id": 25,
+        "latitude": "38.088174",
+        "longitude": "-23.863210",
+        "time": "400s",
+        "location": "Prydain (fictional)",
+        "released": "1985",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Great Mouse Detective",
+        "id": 26,
+        "latitude": "51.612811",
+        "longitude": "1.124968",
+        "time": "1837-1901",
+        "location": "London, UK",
+        "released": "1986",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Oliver and Company",
+        "id": 27,
+        "latitude": "40.544103",
+        "longitude": "-74.197859",
+        "time": "1800s",
+        "location": "New York, USA",
+        "released": "1988",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Little Mermaid",
+        "id": 28,
+        "latitude": "55.676098",
+        "longitude": "12.568337",
+        "time": "1840~",
+        "location": "Copenhagen, Denmark",
+        "released": "1989",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Rescuers Down Under",
+        "id": 29,
+        "latitude": "-24.404181",
+        "longitude": "132.55096",
+        "time": "1970s",
+        "location": "The Outback, Australia",
+        "released": "1990",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Beauty and the Beast",
+        "id": 30,
+        "latitude": "47.790496",
+        "longitude": "-0.552024",
+        "time": "1700s",
+        "location": "France",
+        "released": "1991",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Aladdin",
+        "id": 31,
+        "latitude": "24.774265",
+        "longitude": "46.738586",
+        "time": "10,300 AD",
+        "location": "Agrabah (fictional)",
+        "released": "1992",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Lion King",
+        "id": 32,
+        "latitude": "-2.403825",
+        "longitude": "36.528539",
+        "time": "1101-1200",
+        "location": "Pride Lands (fictional)",
+        "released": "1994",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Pocahontas",
+        "id": 33,
+        "latitude": "37.926868",
+        "longitude": "-78.024902",
+        "time": "1609-1610",
+        "location": "Virginia, USA",
+        "released": "1995",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Hunchback of Notre Dame",
+        "id": 34,
+        "latitude": "48.852737",
+        "longitude": "2.350699",
+        "time": "1400s",
+        "location": "Paris, France",
+        "released": "1996",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Hercules",
+        "id": 35,
+        "latitude": "40.090549",
+        "longitude": "22.361469",
+        "time": "1101-1200",
+        "location": "Mount Olympus, Greece",
+        "released": "1997",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Mulan",
+        "id": 36,
+        "latitude": "31.966529",
+        "longitude": "111.600680",
+        "time": "202BC–220AD",
+        "location": "China",
+        "released": "1998",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Tarzan",
+        "id": 37,
+        "latitude": "-5.901280",
+        "longitude": "12.480375",
+        "time": "1911",
+        "location": "Congo",
+        "released": "1999",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Dinosaur",
+        "id": 38,
+        "latitude": "5.501330",
+        "longitude": "-62.002114",
+        "time": "Unknown",
+        "location": "Venezuela",
+        "released": "2000",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Fantasia 2000",
+        "id": 39,
+        "latitude": "31.651037",
+        "longitude": "-47.307374",
+        "time": "Unknown",
+        "location": "Unknown",
+        "released": "1940",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Emperor's New Groove",
+        "id": 40,
+        "latitude": "-7.241134",
+        "longitude": "-75.707126",
+        "time": "1400-1533",
+        "location": "Peru",
+        "released": "2000",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Atlantis: The Lost Empire",
+        "id": 41,
+        "latitude": "36.052978",
+        "longitude": "-7.133516",
+        "time": "1914",
+        "location": "Atlantis (fictional)",
+        "released": "2001",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Lilo and Stitch",
+        "id": 42,
+        "latitude": "22.092961",
+        "longitude": "-159.442679",
+        "time": "1950-1960",
+        "location": "Hawaii, USA",
+        "released": "2002",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Treasure Planet",
+        "id": 43,
+        "latitude": "24.685371",
+        "longitude": "-49.841620",
+        "time": "36500~",
+        "location": "Unknown",
+        "released": "2002",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Brother Bear",
+        "id": 44,
+        "latitude": "66.159189",
+        "longitude": "-149.840458",
+        "time": "8000BC",
+        "location": "Alaska, USA",
+        "released": "2003",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Home on the Range",
+        "id": 45,
+        "latitude": "43.878446",
+        "longitude": "-106.748056",
+        "time": "1889",
+        "location": "Wyoming, USA",
+        "released": "2004",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Chicken Little",
+        "id": 46,
+        "latitude": "30.559602",
+        "longitude": "-52.443965",
+        "time": "Unknown",
+        "location": "Oakey Oaks (fictional)",
+        "released": "2005",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Meet the Robinsons",
+        "id": 47,
+        "latitude": "34.201675",
+        "longitude": "-58.262939",
+        "time": "2037",
+        "location": "Unknown",
+        "released": "2007",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Bolt",
+        "id": 48,
+        "latitude": "41.088174",
+        "longitude": "-73.863210",
+        "time": "2008",
+        "location": "New York, USA",
+        "released": "2008",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "The Princess and the Frog",
+        "id": 49,
+        "latitude": "30.024878",
+        "longitude": "-90.020322",
+        "time": "1920s",
+        "location": "New Orleans, USA",
+        "released": "2009",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Tangled",
+        "id": 50,
+        "latitude": "50.528448",
+        "longitude": "7.179271",
+        "time": "1843",
+        "location": "Corona (fictional)",
+        "released": "2010",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Winnie the Pooh",
+        "id": 51,
+        "latitude": "51.047001",
+        "longitude": "0.065751",
+        "time": "1920s",
+        "location": "East Sussex, UK",
+        "released": "2011",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Wreck-It Ralph",
+        "id": 52,
+        "latitude": "25.964370",
+        "longitude": "-55.550950",
+        "time": "2012",
+        "location": "Unknown",
+        "released": "2012",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Frozen",
+        "id": 53,
+        "latitude": "58.460220",
+        "longitude": "8.771027",
+        "time": "1843",
+        "location": "Arendelle (fictional)",
+        "released": "2013",
+        "nametype": "Valid"
+      }
+  },
+    {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "mass": 21,
+          "name": "Big Hero 6",
+          "id": 54,
+          "latitude": "35.652832",
+          "longitude": "139.839478",
+          "time": "2014",
+          "location": "San Fransokyo (fictional)",
+          "released": "2014",
+          "nametype": "Valid"
+        }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Zootopia",
+        "id": 55,
+        "latitude": "24.449857",
+        "longitude": "-39.793768",
+        "time": "1960s",
+        "location": "Zootopia (fictional)",
+        "released": "2016",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Moana",
+        "id": 56,
+        "latitude": "-13.553323",
+        "longitude": "-172.450529",
+        "time": "21~",
+        "location": "Motunui (fictional)",
+        "released": "2016",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Ralph Breaks the Internet",
+        "id": 57,
+        "latitude": "29.531080",
+        "longitude": "-33.241411",
+        "time": "2018",
+        "location": "The Internet (fictional-ish)",
+        "released": "2018",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Frozen 2",
+        "id": 58,
+        "latitude": "64.128288",
+        "longitude": "-21.827774",
+        "time": "1846",
+        "location": "Iceland",
+        "released": "2019",
+        "nametype": "Valid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0, 0
+        ]
+      },
+      "properties": {
+        "mass": 21,
+        "name": "Raya and the Last Dragon",
+        "id": 59,
+        "latitude": "38.446102",
+        "longitude": "-59.840684",
+        "time": "Unknown",
+        "location": "Kumandra (fictional)",
+        "released": "2021",
+        "nametype": "Valid"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+}
